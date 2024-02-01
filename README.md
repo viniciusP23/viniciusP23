@@ -4,19 +4,16 @@ Eu sou Vinicius Pereira, sou um programador Front-end, atualmente estou aprenden
 
 Buscando sempre me aprimorar nos meus projetos, a cada dia treinando mais para ingressar no mundo da programação e me tornar um desenvolvedor Full-Stack. :computer: :collision:
 
-- <img src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt= "html-logo" />
-- <img src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo" />
-- <img src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="logo-js" />
-<br>
-<br>
 
 <br>
 <br>
-<a href= "https://www.instagram.com/vinicius_pereiraskt/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt"instagram" />
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusP23)](https://github.com/anuraghazra/github-readme-stats)
 
+<div style="display: inline_block"><br>
+  <img align="center" alt="vinicius-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vinicius-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vinicius-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+</div>
 
 
 
