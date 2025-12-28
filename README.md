@@ -103,18 +103,17 @@ Meu objetivo é crescer profissionalmente como desenvolvedor front-end.
 ### 📊 Estatísticas
 
 <img
-    align="left"
-    alt="GitHub Stats"
-    height="200px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=viniciusP23_icons=true&theme=tokyonight&locale=pt-br" 
+  align="left"
+  alt="GitHub Stats"
+  height="200px"
+  src="https://github-readme-stats.vercel.app/api?username=viniciusP23&show_icons=true&theme=tokyonight&locale=pt-br"
 />
 
+
 <img
-    align="left"
-    alt="GitHub Stats"
-    height="200px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusP23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  align="left"
+  alt="Top Languages"
+  height="200px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusP23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
