@@ -11,7 +11,21 @@ criando projetos práticos para consolidar meus conhecimentos.
 
 Meu objetivo é crescer profissionalmente como desenvolvedor front-end.
 
----
+<h3 align="center">📞 Contacta-me</h3>
+
+<p align="center">
+  <a href="https:www.linkedin.com/in/vinicius-pereira25" target="_blank" title="LinkedIn">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="vinicius_pereira1@live.com" target="_blank" title="E-mail">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/14998871712" target="_blank" title="WhatsApp">
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" width="30" alt="WhatsApp"/>
+  </a>
+</p>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -102,19 +116,21 @@ Meu objetivo é crescer profissionalmente como desenvolvedor front-end.
 
 ### 📊 Estatísticas
 
-<p>
+
 <img
-  align="left"
-  alt="GitHub Stats"
-  height="200px"
-  src="https://github-readme-stats.vercel.app/api?username=viniciusP23&show_icons=true&theme=tokyonight&locale=pt-br"
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=viniciusP23_icons=false&theme=tokyonight&locale=pt-br" 
 />
 
 <img
-  align="left"
-  alt="Top Languages"
-  height="200px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusP23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusP23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-</p>
+
 
