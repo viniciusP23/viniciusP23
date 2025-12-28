@@ -96,4 +96,25 @@ Meu objetivo é crescer profissionalmente como desenvolvedor front-end.
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
-          
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=viniciusP23_icons=true&theme=tokyonight&locale=pt-br" 
+/>
+
+<img
+    align="left"
+    alt="GitHub Stats"
+    height="200px"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusP23&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
